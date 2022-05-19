@@ -42,10 +42,10 @@ React Native
 ## How to use this code...
 
 * First of all, clone the repository
-    * git clone https://github.com/sajal-se/MAD-Final-Project.git
+    * git clone https://github.com/sajal-se/WeatherApp.git
 
 * Open terminal and go to directory
-    * cd MAD-Final-Project
+    * cd WeatherApp
     * npm install
 
 * Api key change
